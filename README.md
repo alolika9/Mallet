@@ -74,6 +74,3 @@ For details about the commands please visit the API documentation and website at
   * Hidden Markov Models
   * Semi-Supervised Sequence Prediction Models
 * Linear Regression
-
-
-
